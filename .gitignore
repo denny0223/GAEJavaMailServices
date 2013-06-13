@@ -1,0 +1,14 @@
+*.class
+
+*.jar
+*.war
+
+war/gaemailservices/
+gwt-unitCache/
+test-classes/
+
+
+war/WEB-INF/deploy/
+war/WEB-INF/classes/
+
+war/WEB-INF/appengine-generated/
